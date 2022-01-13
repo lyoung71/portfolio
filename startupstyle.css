@@ -1,0 +1,46 @@
+body, 
+html {height: 100%;
+		width: 100%;
+		font-family: Times-New-Roman;
+		background: url(rio-de-janeiro-1963744.jpg) no-repeat center center fixed; 
+  			-webkit-background-size: cover;
+  			-moz-background-size: cover;
+ 			-o-background-size: cover;
+  			background-size: cover;}
+
+h1 {
+	font-size: 5rem;
+	color: whitesmoke;
+}
+
+
+hr {
+    margin: 20px auto;
+    color: orangered;
+    border: 3px solid orangered;
+    max-width: 65px;
+    opacity: 1;}
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color: orangered;
+	border-color: orangered;
+}
+
+.btn-primary:hover {
+	background-color: orangered;
+	border-color: orangered;
+	border-width: 4px;
+}
+.btn-xl {
+	padding: 1rem, 2rem;
+}
+
+.buffer {
+	height: 10rem;
+}
